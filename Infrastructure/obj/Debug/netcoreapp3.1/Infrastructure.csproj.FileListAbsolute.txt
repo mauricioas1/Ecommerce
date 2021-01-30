@@ -1,0 +1,9 @@
+C:\Mauricio\Sistema E-Commerce DDD\ecommerceddd\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Mauricio\Sistema E-Commerce DDD\ecommerceddd\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Mauricio\Sistema E-Commerce DDD\ecommerceddd\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Mauricio\Sistema E-Commerce DDD\ecommerceddd\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Mauricio\Sistema E-Commerce DDD\ecommerceddd\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Mauricio\Sistema E-Commerce DDD\ecommerceddd\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Mauricio\Sistema E-Commerce DDD\ecommerceddd\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Mauricio\Sistema E-Commerce DDD\ecommerceddd\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Mauricio\Sistema E-Commerce DDD\ecommerceddd\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
